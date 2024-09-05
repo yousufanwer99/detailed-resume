@@ -1,0 +1,121 @@
+.header-1 {
+    background: #313c4e;
+    color: #fff;
+    padding: 30px 25px;
+}
+
+h2 {
+    color: #449399;
+    font-weight: bold;
+    border-bottom: 5px solid #449399;
+    width: fit-content;
+    line-height: 50px;
+    font-size: 26px;
+}
+
+ul.badges {
+    padding: 0;
+    list-style: none;
+}
+
+ul.badges li {
+    border: 1px solid #000;
+    display: inline-block;
+    vertical-align: top;
+    padding: 5px 10px;
+    border-radius: 5px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+h3 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 0;
+}
+
+h4 {
+    font-size: 22px;
+}
+
+p.italic-seagreen {
+    color: #449399;
+    font-size: 14px;
+    font-style: italic;
+}
+
+.col-md-6>* {
+    max-width: 80%;
+}
+
+h4 {
+    font-size: 19px;
+}
+
+h3 {}
+
+h2 {
+    margin-bottom: 20px;
+}
+
+p.lead {
+    font-weight: 500;
+    font-size: 16px;
+    margin-bottom: 0;
+}
+
+ul.badges.dark li {
+    background: #313c4e;
+    color: #fff;
+    border-color: #313c4e;
+}
+
+p.italic-gray {
+    color: gray;
+    font-size: 14px;
+}
+
+p.italic-gray a {
+    color: gray;
+    font-weight: bold;
+}
+
+ul li {
+    font-size: 14px;
+}
+
+ul {
+    padding-left: 0;
+    list-style: inside;
+}
+
+ul li::marker {
+    color: #449399;
+}
+
+.header-1 h4 {
+    color: #449399;
+}
+
+.header-2 {
+    background: #222a33;
+    padding: 30px 25px;
+    color: #fff;
+    margin-bottom:30px;
+}
+
+.header-2 a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.header-2 li {
+    list-style: none;
+    width: 49%;
+    display: inline-block;
+    margin-bottom: 10px;
+}
+
+.header-2 ul {
+    padding: 0;
+}
