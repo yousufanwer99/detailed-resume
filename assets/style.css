@@ -119,3 +119,8 @@ ul li::marker {
 .header-2 ul {
     padding: 0;
 }
+
+.clr-space
+{
+    margin-top: -15px;
+}
